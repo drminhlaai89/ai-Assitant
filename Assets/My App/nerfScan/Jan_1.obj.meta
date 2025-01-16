@@ -1,0 +1,504 @@
+fileFormatVersion: 2
+guid: 3bb19a05ee1011448b7c459097b166ea
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh_0.012_Mesh_0.002_Mesh_0.012_Mesh_0.001_Material_0.001Mat
+    second: {fileID: 2100000, guid: 46f394b1e0aeb1a4f9583d916bf2af33, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh_0.012_Mesh_0.002_Mesh_0.012_Mesh_0.001_Material_1.001Mat
+    second: {fileID: 2100000, guid: b55d7321d99531449929097a72042e70, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh_0.012_Mesh_0.002_Mesh_0.012_Mesh_0.001_Material_10.001Mat
+    second: {fileID: 2100000, guid: 2e48dfeebbc7f8949a914ba93d13b60d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh_0.012_Mesh_0.002_Mesh_0.012_Mesh_0.001_Material_11.001Mat
+    second: {fileID: 2100000, guid: 83d3c4d036a981b4ca0a3d14c58a483c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh_0.012_Mesh_0.002_Mesh_0.012_Mesh_0.001_Material_12.001Mat
+    second: {fileID: 2100000, guid: 219b5553ce13cd144b1d6cb5fca9338d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh_0.012_Mesh_0.002_Mesh_0.012_Mesh_0.001_Material_13.001Mat
+    second: {fileID: 2100000, guid: 71ce09040484e0a4b89129c7e8d625b1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh_0.012_Mesh_0.002_Mesh_0.012_Mesh_0.001_Material_14.001Mat
+    second: {fileID: 2100000, guid: f0f92a99a4ffbdb4f9a436ea463ff8a9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh_0.012_Mesh_0.002_Mesh_0.012_Mesh_0.001_Material_15.001Mat
+    second: {fileID: 2100000, guid: 7ae94a4ad5821ea46948535cf27a0ff5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh_0.012_Mesh_0.002_Mesh_0.012_Mesh_0.001_Material_16.001Mat
+    second: {fileID: 2100000, guid: cb69072eda4bd8045be2c023e19dfa5f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh_0.012_Mesh_0.002_Mesh_0.012_Mesh_0.001_Material_17.001Mat
+    second: {fileID: 2100000, guid: 7ad105488752db246bccd32274377bcd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh_0.012_Mesh_0.002_Mesh_0.012_Mesh_0.001_Material_18.001Mat
+    second: {fileID: 2100000, guid: b187020c8ce7cb14289abe7a932ffc0d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh_0.012_Mesh_0.002_Mesh_0.012_Mesh_0.001_Material_19.001Mat
+    second: {fileID: 2100000, guid: 3ac8acf57c85e5b4b88cc4e186b5cdc3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh_0.012_Mesh_0.002_Mesh_0.012_Mesh_0.001_Material_2.001Mat
+    second: {fileID: 2100000, guid: 379390f38dd8b4c47ae7843c6e3e93ad, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh_0.012_Mesh_0.002_Mesh_0.012_Mesh_0.001_Material_20.001Mat
+    second: {fileID: 2100000, guid: 7b47247aa6c0d1040b10efd85f22ad1b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh_0.012_Mesh_0.002_Mesh_0.012_Mesh_0.001_Material_3.001Mat
+    second: {fileID: 2100000, guid: b1195e1bb3e0c6d449c9dec093d9e27d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh_0.012_Mesh_0.002_Mesh_0.012_Mesh_0.001_Material_4.001Mat
+    second: {fileID: 2100000, guid: caec952ed361198418ffae673472ea16, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh_0.012_Mesh_0.002_Mesh_0.012_Mesh_0.001_Material_5.001Mat
+    second: {fileID: 2100000, guid: a8cb093f001c3e54f8fb3f52f07b9397, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh_0.012_Mesh_0.002_Mesh_0.012_Mesh_0.001_Material_6.001Mat
+    second: {fileID: 2100000, guid: eba0e4ffc3e527d428f308fc55f19acc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh_0.012_Mesh_0.002_Mesh_0.012_Mesh_0.001_Material_7.001Mat
+    second: {fileID: 2100000, guid: 90b029eff89d7ec49a096d0d0829da1c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh_0.012_Mesh_0.002_Mesh_0.012_Mesh_0.001_Material_8.001Mat
+    second: {fileID: 2100000, guid: ccec4d4f584347e46abb1dfc1ed7e3c7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh_0.012_Mesh_0.002_Mesh_0.012_Mesh_0.001_Material_9.001Mat
+    second: {fileID: 2100000, guid: dcc717f5b98c37f4a936ec6491d296f8, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: "Invalid Avatar Rig Configuration. Missing or invalid transform:\n\tRequired
+      human bone 'Head' not found\n"
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human:
+    - boneName: Hips
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Spine
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Left Upper Arm
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Left Lower Arm
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Hand
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Right Upper Arm
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Right Lower Arm
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: R Hand
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Left Upper Leg
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Left Lower Leg
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: L Foot
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Right Upper Leg
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: R Foot
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Right Lower Leg
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: Jan_1(Clone)
+      parentName: 
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mesh_0.012_Mesh_0.002_Mesh_0.012_Mesh_0.001_Material_0.001
+      parentName: Jan_1(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mesh_0.012_Mesh_0.002_Mesh_0.012_Mesh_0.001_Material_1.001
+      parentName: Jan_1(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mesh_0.012_Mesh_0.002_Mesh_0.012_Mesh_0.001_Material_2.001
+      parentName: Jan_1(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mesh_0.012_Mesh_0.002_Mesh_0.012_Mesh_0.001_Material_3.001
+      parentName: Jan_1(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mesh_0.012_Mesh_0.002_Mesh_0.012_Mesh_0.001_Material_4.001
+      parentName: Jan_1(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mesh_0.012_Mesh_0.002_Mesh_0.012_Mesh_0.001_Material_5.001
+      parentName: Jan_1(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mesh_0.012_Mesh_0.002_Mesh_0.012_Mesh_0.001_Material_6.001
+      parentName: Jan_1(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mesh_0.012_Mesh_0.002_Mesh_0.012_Mesh_0.001_Material_7.001
+      parentName: Jan_1(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mesh_0.012_Mesh_0.002_Mesh_0.012_Mesh_0.001_Material_8.001
+      parentName: Jan_1(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mesh_0.012_Mesh_0.002_Mesh_0.012_Mesh_0.001_Material_9.001
+      parentName: Jan_1(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mesh_0.012_Mesh_0.002_Mesh_0.012_Mesh_0.001_Material_10.001
+      parentName: Jan_1(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mesh_0.012_Mesh_0.002_Mesh_0.012_Mesh_0.001_Material_11.001
+      parentName: Jan_1(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mesh_0.012_Mesh_0.002_Mesh_0.012_Mesh_0.001_Material_12.001
+      parentName: Jan_1(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mesh_0.012_Mesh_0.002_Mesh_0.012_Mesh_0.001_Material_13.001
+      parentName: Jan_1(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mesh_0.012_Mesh_0.002_Mesh_0.012_Mesh_0.001_Material_14.001
+      parentName: Jan_1(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mesh_0.012_Mesh_0.002_Mesh_0.012_Mesh_0.001_Material_15.001
+      parentName: Jan_1(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mesh_0.012_Mesh_0.002_Mesh_0.012_Mesh_0.001_Material_16.001
+      parentName: Jan_1(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mesh_0.012_Mesh_0.002_Mesh_0.012_Mesh_0.001_Material_17.001
+      parentName: Jan_1(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mesh_0.012_Mesh_0.002_Mesh_0.012_Mesh_0.001_Material_18.001
+      parentName: Jan_1(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mesh_0.012_Mesh_0.002_Mesh_0.012_Mesh_0.001_Material_19.001
+      parentName: Jan_1(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mesh_0.012_Mesh_0.002_Mesh_0.012_Mesh_0.001_Material_20.001
+      parentName: Jan_1(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Hips
+      parentName: Jan_1(Clone)
+      position: {x: -0.04, y: 2.37, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Spine
+      parentName: Hips
+      position: {x: 0, y: 0.59, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Left Upper Arm
+      parentName: Spine
+      position: {x: -0.37, y: 0.69, z: 0}
+      rotation: {x: -0, y: -0, z: -0.8653689, w: 0.5011355}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Left Lower Arm
+      parentName: Left Upper Arm
+      position: {x: 0.89, y: -0.17, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Hand
+      parentName: Left Lower Arm
+      position: {x: 0.63, y: -0.11, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Right Upper Arm
+      parentName: Spine
+      position: {x: 0.36, y: 0.63, z: 0}
+      rotation: {x: -0, y: -0, z: 0.48120928, w: 0.87660575}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Right Lower Arm
+      parentName: Right Upper Arm
+      position: {x: -0.23, y: -0.85, z: 0}
+      rotation: {x: -0, y: -0, z: -0.008636086, w: -0.9999627}
+      scale: {x: 1, y: 1, z: 1}
+    - name: R Hand
+      parentName: Right Lower Arm
+      position: {x: -0.21, y: -0.7, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Left Upper Leg
+      parentName: Hips
+      position: {x: -0.29, y: -0.3900001, z: 0}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Left Lower Leg
+      parentName: Left Upper Leg
+      position: {x: -0.11, y: -1.08, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: L Foot
+      parentName: Left Lower Leg
+      position: {x: -0.08, y: -1.09, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Right Upper Leg
+      parentName: Hips
+      position: {x: 0.29, y: -0.3900001, z: 0}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Right Lower Leg
+      parentName: Right Upper Leg
+      position: {x: 0.05, y: -1.08, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: R Foot
+      parentName: Right Lower Leg
+      position: {x: 0.23, y: -1.03, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 3
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
