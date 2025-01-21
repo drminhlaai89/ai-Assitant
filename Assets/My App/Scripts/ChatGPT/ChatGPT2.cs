@@ -16,7 +16,7 @@ namespace OpenAI
 
         PlaceDetector placeDetector;
 
-        private OpenAIApi openai = new OpenAIApi("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");
+        private OpenAIApi openai = new OpenAIApi("");
 
         private string userInput;
 
